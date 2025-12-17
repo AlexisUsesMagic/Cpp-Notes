@@ -1,1 +1,1 @@
-The files are not really organized but its from when I was learning Cpp from Free Code Academy. Feel free to look at them. I just wanted notes to be saved and to make sure I didn't lose them from just sitting on my pc. 
+The files are not really organized but its from when I was learning Cpp from Free Code Academy. Feel free to look at them. I just wanted notes to be saved and to make sure I didn't lose them from just sitting on my pc. Some notes are missing because I made a mistake of using the git clean function and lost a bunch of my data (: 
